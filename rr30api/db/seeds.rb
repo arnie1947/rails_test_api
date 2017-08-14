@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+SourceProvider.create([{name: 'Belarusbank', url: 'belarusbank.by', adress: 'Minsk, Nezalejnasci 101'}])
+CourseResult.create([{usd:1.00,eur:0.95,rur:60.15}])
+CourseResult.create([{usd:1.00,eur:0.96,rur:62.15}])
